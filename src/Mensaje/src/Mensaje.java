@@ -1,5 +1,4 @@
 package mensaje;
-// hola
 /**
  *
  * @author George Alfred
